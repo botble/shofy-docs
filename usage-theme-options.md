@@ -64,5 +64,64 @@ Then, these links can be used in **[Site Information](./usage-widgets.md#4-foote
 
 ## Ecommerce
 
-In here, there are various options to configure your shop that related to eCommerce features. You can set the number of products per page, products list
+In here, there are various options to configure your shop that related to eCommerce features. You can set the number of
+products per page, products list
 display style or even product item display style, and more.
+
+### Product listing page layout
+
+There are 3 options to choose from for the product listing page layout.
+
+![Ecommerce product listing page style](./images/theme-option-ecommerce-product-listing-page-layout.png)
+
+You can choose between a left sidebar, right sidebar, or no sidebar for the product listing page in the **Products
+listing page layout** option.
+
+#### Product listing page with left sidebar
+
+![Product listing left sidebar](./images/product-listing-left-sidebar.png)
+
+___
+
+#### Product listing page with right sidebar
+
+![Product listing right sidebar](./images/product-listing-right-sidebar.png)
+
+___
+
+#### Product listing page with no sidebar
+
+![Product listing no sidebar](./images/product-listing-no-sidebar.png)
+
+### Product item display style
+
+It comes with 5 predefined product item display styles for various purposes.
+
+![Product item display style](./images/product-item-1.png)
+
+___
+
+![Product item display style](./images/product-item-2.png)
+
+___
+
+![Product item display style](./images/product-item-3.png)
+
+___
+
+![Product item display style](./images/product-item-4.png)
+
+___
+
+![Product item display style](./images/product-item-5.png)
+
+### Number of products per page
+
+The default number of products per page is 24. You can change this number in the **Number of products per page** option.
+
+### Other options
+
+There are also options to customize your product listing page slug, product gallery image style (horizontal or
+vertical), and more.
+
+![Ecommerce](./images/theme-option-ecommerce-other-options.png)

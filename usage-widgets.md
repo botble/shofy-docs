@@ -24,14 +24,14 @@ the product, below is an example of using **Product detail info** widget.
 
 ![Widget product details sidebar admin](./images/widget-product-detail-sidebar-admin.png)
 
-### 2. Primary sidebar
+### 2. Blog sidebar
 
-![Widget primary sidebar](./images/widget-primary-sidebar.png)
+![Widget blog sidebar](./images/widget-blog-sidebar.png)
 
-Primary sidebar is the sidebar that appears on the right side of the blog page. You can use this area to display widgets
+Blog sidebar is the sidebar that appears on the right side of the blog page. You can use this area to display widgets
 such as **Blog Search**, **Recent Posts**, **Categories**, etc.
 
-![Widget primary sidebar admin](./images/widget-primary-sidebar-admin.png)
+![Widget blog sidebar admin](./images/widget-blog-sidebar-admin.png)
 
 ### 3. Footer top sidebar
 
@@ -62,6 +62,11 @@ In the example below, we use:
 * **Site Contact** widget to display contact details.
 
 ![Widget footer primary sidebar admin](./images/widget-footer-primary-sidebar-admin.png)
+
+::: tip
+To use the **Custom Menu** widget, you can follow the steps in the [Menu](./usage-menu.md) section to create a custom
+menu and then add it to the widget.
+:::
 
 ### 5. Footer bottom sidebar
 

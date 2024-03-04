@@ -12,7 +12,8 @@ In the `Create new page` page, fill in the following fields:
 
 - **Title**: Enter the title of the page. For example, `Home`.
 - **Permalink**: Leave it empty. The path of the homepage is `/`.
-- **Content**: The content of the homepage is usually customized using shortcodes (we will discuss in [Shortcodes](./usage-shortcode.md)). You can
+- **Content**: The content of the homepage is usually customized using shortcodes (we will discuss
+  in [UI Block](./usage-ui-block.md)). You can
   leave it empty for now.
 - **Template**: Select `Full width`.
 - **Breadcrumb style**: Select `None`.
@@ -30,3 +31,6 @@ If you are using the sample data of **Shofy**, the homepage is already created a
 :::
 
 ## Customize Homepage
+
+The homepage or any other page can be customized using UI Block. A list of available
+shortcodes can be found in [UI Block](./usage-ui-block.md#available-shortcodes).

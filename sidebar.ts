@@ -21,7 +21,7 @@ export default [
         text: 'Usage',
         items: [
             { text: 'Homepage', link: '/shofy/usage-homepage' },
-            { text: 'Shortcode', link: '/shofy/usage-shortcode' },
+            { text: 'UI Block', link: '/shofy/usage-ui-block' },
             { text: 'Menu', link: '/shofy/usage-menu' },
             { text: 'Theme options', link: '/shofy/usage-theme-options' },
             { text: 'Widgets', link: '/shofy/usage-widgets' },
