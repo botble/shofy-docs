@@ -44,7 +44,7 @@ so much!
 
 * Homepage: https://shofy.botble.com
 * Admin panel: https://shofy.botble.com/admin
-* Admin account: `botble` – `159357` (username & password are autofilled)
+* Admin account: `admin` – `12345678` (username & password are autofilled)
 * Customer login URL: https://shofy.botble.com/login
 * Customer account: `customer@botble.com` – `12345678`
 
