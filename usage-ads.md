@@ -11,10 +11,10 @@ To manage ads on your website, go to **Admin** ->  **Ads** -> **Ads**.
 To display ads on specific pages, posts, or product pages, you need to use the content field and add a new UI Block for
 ads.
 
-1.	Edit the page, post, or product.
-2.	Click UI Blocks in the Content field.
-3.	Select the Ads block.
-4.	Configure the ad settings and click Add.
+1. Edit the page, post, or product.
+2. Click UI Blocks in the Content field.
+3. Select the Ads block.
+4. Configure the ad settings and click Add.
 
 ::: warning
 Ad images should NOT contain ‘ads’, ‘advert’, etc., in the name to avoid being blocked by Adblock extensions.
